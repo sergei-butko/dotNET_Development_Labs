@@ -5,7 +5,6 @@ namespace Program_Lab2
 {
     static class Program
     {
-
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Blue;
